@@ -1,0 +1,11 @@
+{
+  "name": "webdiplomacy-scraper",
+  "version": "0.1.0",
+  "author": "Mike Beasley <mike.beasley@gmail.com>",
+  "description": "Basic scaper to get data for active games in web-diplomacy",
+  "dependencies": {
+    "request": "^2.36.0",
+    "cheerio" : "*",
+    "moment": "*"
+  }
+}
